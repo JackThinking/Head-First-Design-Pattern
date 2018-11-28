@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7664b807-dba5-4b58-9827-1ccd310bcee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/LowerCaseInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/StarbuzzCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap3_Beverage/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPattern/Chap1_Duck/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designPattern/Chap1_Duck/Duck.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,33 +32,40 @@
     <session id="646819448">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Learning" value="1" />
-          <entry key="java" value="29" />
+          <entry key="java" value="41" />
+          <entry key="kt" value="1" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="41" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2383" />
+          <entry key="java" value="3367" />
+          <entry key="txt" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2383" />
+          <entry key="JAVA" value="3367" />
+          <entry key="PLAIN_TEXT" value="51" />
         </counts>
       </usages-collector>
     </session>
@@ -66,107 +73,101 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/Subject.java">
+        <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/Beverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/WeatherData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="45" column="74" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="74" />
+            <state relative-caret-position="219">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/Observer.java">
+        <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/CondimentDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="342">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/CurrentConditionsDisplay.java">
+        <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/Mocha.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="159">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
               <folding>
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/WeatherStation.java">
+        <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/Soy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="453">
+              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+              <folding>
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/StarbuzzCoffee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/LowerCaseInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/WeatherData.java">
+        <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/InputTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
-              <folding>
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/WeatherStation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/CurrentConditionsDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="582">
+              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/DisplayElement.java">
+        <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state>
+              <caret column="46" selection-start-column="46" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -178,6 +179,7 @@
       <list>
         <option value="Arquillian JUnit Test Class" />
         <option value="Interface" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -215,6 +217,16 @@
         <option value="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/CurrentConditionsDisplay.java" />
         <option value="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/WeatherStation.java" />
         <option value="$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/Beverage.java" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/CondimentDecorator.java" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/Espresso.java" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/HouseBlend.java" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/Mocha.java" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/Soy.java" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/StarbuzzCoffee.java" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/LowerCaseInputStream.java" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/test.txt" />
+        <option value="$PROJECT_DIR$/src/Chap3_Beverage/InputTest.java" />
       </list>
     </option>
   </component>
@@ -241,7 +253,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,33 +269,20 @@
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap2_WeaherData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap2_WeaherData" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignByJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap2_WeaherData" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignByMyself" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap3_Beverage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543325725465" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543412020145" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -293,7 +291,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -322,13 +320,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeatherStation (1)">
+  <component name="RunManager" selected="Application.InputTest">
+    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap3_Beverage.InputTest" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap3_Beverage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap1_Duck.MiniDuckSimulator" />
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chap1_Duck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap3_Beverage.StarbuzzCoffee" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap3_Beverage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,9 +390,13 @@
       <item itemvalue="Application.MiniDuckSimulator" />
       <item itemvalue="Application.WeatherStation" />
       <item itemvalue="Application.WeatherStation (1)" />
+      <item itemvalue="Application.StarbuzzCoffee" />
+      <item itemvalue="Application.InputTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputTest" />
+        <item itemvalue="Application.StarbuzzCoffee" />
         <item itemvalue="Application.WeatherStation (1)" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.MiniDuckSimulator" />
@@ -387,12 +415,13 @@
       <updated>1543218217955</updated>
       <workItem from="1543218220076" duration="2573000" />
       <workItem from="1543321090938" duration="602000" />
-      <workItem from="1543321732678" duration="3876000" />
+      <workItem from="1543321732678" duration="4229000" />
+      <workItem from="1543408902756" duration="3008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7051000" />
+    <option name="totallyTimeSpent" value="10412000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,7 +436,7 @@
     <frame x="0" y="22" width="1920" height="1003" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642398" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25963598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -417,7 +446,7 @@
       <window_info id="Learn" order="7" weight="0.32976446" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18949772" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18949772" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,10 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -493,10 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -504,10 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -522,9 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -539,10 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,10 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -562,31 +568,31 @@
         <state relative-caret-position="-215" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/DisplayElement.java">
+    <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="190">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="45" column="74" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="190">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/CurrentConditionsDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="722">
+          <caret line="19" column="5" selection-start-line="15" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="e#612#613#0" expanded="true" />
             <element signature="e#694#695#0" expanded="true" />
@@ -594,25 +600,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="45" column="74" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="74" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/WeatherStation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="342">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -625,27 +616,170 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/CurrentConditionsDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="380">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByMyself/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chap2_WeaherData/DesignByJava/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        <state relative-caret-position="207">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
-            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/HouseBlend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/Soy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
             <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="6307" column="23" selection-start-line="6307" selection-start-column="23" selection-end-line="6307" selection-end-column="23" />
+          <folding>
+            <element signature="e#225086#225087#0" expanded="true" />
+            <element signature="e#225135#225136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/LowerCaseInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="181" column="11" selection-start-line="181" selection-start-column="11" selection-end-line="181" selection-end-column="11" />
+          <folding>
+            <element signature="e#5951#5952#0" expanded="true" />
+            <element signature="e#5996#5997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-661">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/StarbuzzCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chap3_Beverage/InputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
