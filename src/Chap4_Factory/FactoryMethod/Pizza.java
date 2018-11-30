@@ -1,4 +1,4 @@
-package Chap4_Factory;
+package Chap4_Factory.FactoryMethod;
 
 import java.util.ArrayList;
 

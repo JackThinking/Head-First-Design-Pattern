@@ -1,4 +1,4 @@
-package Chap4_Factory;
+package Chap4_Factory.FactoryMethod;
 
 /**
  * Created by Citrix on 2018/11/29.
